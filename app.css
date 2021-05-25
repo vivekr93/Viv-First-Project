@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
+    background-color: rgb(82, 7, 69);
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 18rem;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
